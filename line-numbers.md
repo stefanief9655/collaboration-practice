@@ -6,7 +6,7 @@
 #### 6
 #### Chocolate Milk
 #### 8
-#### githud is really good 
+#### Github is awesome
 #### 10
 #### 11
 #### 12
