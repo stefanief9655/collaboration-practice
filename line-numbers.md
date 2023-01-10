@@ -1,10 +1,10 @@
 #### Alice was here
 #### 2
-#### bob was here 
+#### bob was here
 #### 4
 #### 5
 #### 6
-#### 7
+#### Chocolate Milk
 #### 8
 #### 9
 #### 10
